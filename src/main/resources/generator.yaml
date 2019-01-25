@@ -1,0 +1,12 @@
+db:
+  url: jdbc:mysql://localhost:3306/spring-boot-demo-1
+  username: root
+  password:
+author: GreedyStar
+packageName: com.greedystar.springbootdemo.modules.role
+path:
+  controller: web
+  service: service
+  dao: dao
+  entity: entity
+  mapper: mybatis.role
